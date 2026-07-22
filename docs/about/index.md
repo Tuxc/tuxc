@@ -1,33 +1,29 @@
-# About me
+# 关于我
 
-<img src="https://gitlab.fabcloud.org/academany/fabacademy/2020/labs/oshanghai/students/pan-cheng/raw/a4bbb1ea61d44aebd7ebf56238d254c9cdffef80/docs/images/index/293245866.jpg" width="40%">  
+<img src="../images/Avatar.jpg" width="40%">  
 
-Hi，I'm *Cheng Pan*. A mechanical engineer; A STEM lesson Teacher; A lifelong learner.  
+我叫屠欣辰，一个喜爱游戏、动漫和运动的JAVA程序员，也是一位父亲。
 
-## My background
+## 个人经历
 
-I was born in *Shanghai*. Graduated from *University of Shanghai for Science and Technology*. My major is mechanical design, manufacturing and automation. After graduation I worked in a research and production company. But I'm also a person who loves children, animals, photography，travel, cooking and so on.
-Although I was required to maintain a high degree of consistency in my work, I am a creative person in my life. I like to attend workshop activities and discuss ideas with friends. And I especially love children, because I found that they are a group of natural creators. I am agree with STEM teaching philosophy and *fabacademy*, so I choose to be a teacher and also choose to join *fabacademy*.
+我在上海出生，毕业于立信会计（曾经叫上海金融学院），学的是国际金融学。毕业之后发现自己对金融实在不感兴趣，去学了JAVA，然后一直从事着JAVA程序员的工作。
 
-## My work experience
+## 爱好和特点
 
-I was a mechanical engineer worked in a Chinese company named *Shanghai Power Equipment Research Institute*.Visit this website to see my work! [*SPERI*](http://www.speri.com.cn/). My job was designing and manufacturing industrial products for the power plant.  
-<img src="https://gitlab.fabcloud.org/academany/fabacademy/2020/labs/oshanghai/students/pan-cheng/raw/7ec9d53b86c0ddcf38c20871c984d0fbdaf926eb/docs/images/index/970781793.jpg" width="40%"> <img src="https://gitlab.fabcloud.org/academany/fabacademy/2020/labs/oshanghai/students/pan-cheng/raw/7ec9d53b86c0ddcf38c20871c984d0fbdaf926eb/docs/images/index/860047969.jpg" width="40%">   
+兴趣爱好广泛，杂而不精，只懂一些皮毛，真正去尝试并坚持做的很少。但是我非常热爱*Minecraft*，断断续续玩了不少的年头，每一次弃坑之后都会让我再次打开这个游戏，因为在里面让我感受到创造的快乐。这次能够有机会来*HAITEC*这里学习，也是希望自己能够坚持下来，让自己能够拥有创造的能力。
 
-Because of lacking diversification and feeling tired of the complicated people relationship in the company, I decided to quit my job and became a teacher teaching students STEM lessons using my professional skills.  
-<img src="https://gitlab.fabcloud.org/academany/fabacademy/2020/labs/oshanghai/students/pan-cheng/raw/b01b2647e940f07727f826e16d78b6174a34466c/docs/images/index/871394892.jpg" width="30%">   
+我比较擅长逻辑和手工，语言能力极差，创造性也很一般。
 
-I really love sharing my skills with the students and stay innovative.  
-I have led a Chinese High School Team [*NO.5515*](https://frc-events.firstinspires.org/2018/team/5515) as a mentor to participate in FRC(First Robot competition) . To see more information about FRC [here](https://www.firstinspires.org/robotics/frc).  
-I also want to make like-minded friends here.So I decided to participate in [*Fabacademy*](http://fabacademy.org/).  
+## 项目
 
-## My Project
+我目前有两个想法。
 
-Here is one of my project called Light Graffiti stick which is made my Arduino.  
-![image1][1]  
+1.  做一个前进梅丽号的遥控船，算是完成自己小时候的一个小梦想
+![image1][1] 
+2.  为我的儿子做一个玩具，等我整合好他的想法之后再记录下来
 ![image2][2]  
 
-If you want to draw a picture in the air. You can just upload your image using TF card into the stick controller and take a short walk. In the same time using a camera to take a long exposure picture, then you can see your image magically shown on screen.
 
-[1]: https://gitlab.fabcloud.org/academany/fabacademy/2020/labs/oshanghai/students/pan-cheng/raw/master/docs/images/index/20181231-220837.jpg  
-[2]: https://gitlab.fabcloud.org/academany/fabacademy/2020/labs/oshanghai/students/pan-cheng/raw/master/docs/images/index/20200209133036.jpg
+
+[1]: ../images/Going_Merry.png
+[2]: ../images/YunXiaoTu.jpg
