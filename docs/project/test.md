@@ -15,11 +15,14 @@
 <u>下划线</u>
 
 
-就是前面要有字[^注脚] 
+就是前面要有字[^week01] 
 
 使用 `git commit` 命令提交代码
 
+使用反引号 `` `git commit` ``
+
+<mark>高亮</mark>
 
 
 
-[^注脚]:week01.md
+[^week01]:../assignments/week01.md
